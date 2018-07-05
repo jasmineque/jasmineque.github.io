@@ -6,10 +6,7 @@ categories: Java Programming
 
 <h1>
 
-```diff
-
-! JAVA BUILDING BLOCKS !
-```
+JAVA BUILDING BLOCKS
 
 </h1>
 
@@ -29,9 +26,8 @@ categories: Java Programming
 
 <h3>
 
-```diff
-- Numbering System:
-```
+Numbering System:
+
 </h3>
 
 * Decimal
@@ -52,9 +48,8 @@ categories: Java Programming
 
 <h3>
 
-```diff
-- Key Differences between Object References and Primitives:
-```
+Key Differences between Object References and Primitives:
+
 </h3>
 
 |Object References|Primitives|
@@ -65,9 +60,8 @@ categories: Java Programming
 
 <h3>
 
-```diff
-- Java Identifiers:
-```
+Java Identifiers:
+
 </h3>
 
 * Are used for identification purpose
@@ -75,9 +69,8 @@ categories: Java Programming
 
 <h3>
 
-```diff
-- Rules for identifiers:
-```
+Rules for identifiers:
+
 </h3>
 
 * The only allowed characters for identifiers are _alphanumeric characters_, _dollar sign_ (\$)$ and _underscore_ (_).
@@ -89,10 +82,7 @@ categories: Java Programming
 ---
 <h2>
 
-```diff
-
-! Variables !
-```
+Variables
 
 </h2>
 
@@ -101,9 +91,8 @@ categories: Java Programming
 
 <h3>
 
-```diff
 - Local Variables:
-```
+
 </h3>
 
 * is a variable defined within a method. 
@@ -111,9 +100,8 @@ categories: Java Programming
 
 <h3>
 
-```diff
-- Instance and Class Variables:
-```
+Instance and Class Variables:
+
 </h3>
 
 * Variables that are not local are known as instance variables or class variables.
