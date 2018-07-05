@@ -14,6 +14,7 @@ JAVA BUILDING BLOCKS
 
 <br>
 <center><img src="https://raw.githubusercontent.com/jasmineque/My-Java/master/Images/C1-1.jpg" width="800" ></center>
+<br>
 
 * `main()` method's parameter list: can write `String[] args`, `String args[]`, or `String…args`
 * All command-line arguments are treated as `String` objects
@@ -23,6 +24,7 @@ JAVA BUILDING BLOCKS
 
 <br>
 <center><img src="https://raw.githubusercontent.com/jasmineque/My-Java/master/Images/C1-3.jpg" width="800"></center>
+<br>
 
 <h3>
 
@@ -80,18 +82,18 @@ Rules for identifiers:
 
 
 ---
+
 <h2>
 
 Variables
 
 </h2>
 
-
 <br>
 
 <h3>
 
-- Local Variables:
+Local Variables:
 
 </h3>
 
@@ -115,6 +117,7 @@ Instance and Class Variables:
 <br>
 
 <center><img src="https://raw.githubusercontent.com/jasmineque/My-Java/master/Images/ClassElements.JPG" width="600"></center>
+<br>
 
 <span style="color:purple">___PIC (Order) - Package, Import, Class___</span>
 
