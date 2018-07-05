@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java Building Blocks"
+title: "Java Operators and Statements"
 categories: Java_Programming
 ---
 
