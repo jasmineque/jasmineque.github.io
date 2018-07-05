@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java Building Blocks"
-categories: Java Programming
+categories: Java_Programming
 ---
 
 <h1>
